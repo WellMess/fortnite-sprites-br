@@ -1,0 +1,11 @@
+.git
+.gitignore
+.manus-logs
+.prettierignore
+.prettierrc
+README.md
+node_modules
+.env.local
+.env.*.local
+pnpm-lock.yaml
+.DS_Store
